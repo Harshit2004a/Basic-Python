@@ -11,3 +11,5 @@ print("Length using for loop:", length)
 
 # Method 3: sum()
 print("Length using sum():", sum(1 for _ in my_list))
+
+#Code by Harshit
